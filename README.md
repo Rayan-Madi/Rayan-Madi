@@ -12,6 +12,16 @@ A creative **Full Stack Developer in training** who turns ideas into reality wit
 ## 🚀 My Mission
 I build, I break, I learn, I grow. Passionate about open-source, futuristic tech, and crafting seamless user experiences.
 
+
+## 📊 My GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rayan-Madi&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
+## 💻 Most Used Languages
+
+![Your Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayan-Madi&layout=compact&hide_title=true)
+
+
 ## 🧠 Currently Exploring
 🤖 AI-powered applications & ML  
 🌐 Web3 & Blockchain integrations  
