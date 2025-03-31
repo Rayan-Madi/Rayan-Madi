@@ -19,7 +19,7 @@ I build, I break, I learn, I grow. Passionate about open-source, futuristic tech
 
 ## 🎯 Let’s Connect & Build Something Epic
 
-🔗 LinkedIn: Rayan Madi 
+🔗 LinkedIn: linkedin.com/in/rayan-madi
 
 📩 Email: madirayan75015@gmail.com 
 
