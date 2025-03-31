@@ -18,7 +18,9 @@ I build, I break, I learn, I grow. Passionate about open-source, futuristic tech
 ☁️ Cloud computing & DevOps  
 
 ## 🎯 Let’s Connect & Build Something Epic
+
 🔗 LinkedIn: Rayan Madi 
+
 📩 Email: madirayan75015@gmail.com 
 
 ### 🎭 Fun Fact
