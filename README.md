@@ -19,9 +19,9 @@ I build, I break, I learn, I grow. Passionate about open-source, futuristic tech
 
 ## 🎯 Let’s Connect & Build Something Epic
 
-🔗 LinkedIn: linkedin.com/in/rayan-madi
+🔗 LinkedIn : linkedin.com/in/rayan-madi
 
-📩 Email: madirayan75015@gmail.com 
+📩 Email : madirayan75015@gmail.com 
 
 ### 🎭 Fun Fact
 I see **coding as an art**, coffee as my fuel ☕, and AI as the future! 🤖 Let's build something amazing together. 🚀
