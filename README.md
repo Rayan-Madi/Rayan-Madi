@@ -4,7 +4,7 @@
 A creative **Full Stack Developer in training** who turns ideas into reality with clean, efficient code. I'm always exploring new tech, pushing boundaries, and striving for excellence.
 
 ## 🔥 My Tech Arsenal
-🖥️ **Frontend:** HTML , CSS , JS
+🖥️ **Frontend:** HTML , CSS , 
 ⚙️ **Backend:**  Python, Java  
 💾 **Databases:** PostgreSQL, MongoDB, Firebase  
 🛠️ **Tools & Workflow:** Git, GitHub, Docker, VS Code, CI/CD
