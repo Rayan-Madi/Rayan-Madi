@@ -4,9 +4,9 @@
 A creative **Full Stack Developer in training** who turns ideas into reality with clean, efficient code. I'm always exploring new tech, pushing boundaries, and striving for excellence.
 
 ## 🔥 My Tech Arsenal
-🖥️ **Frontend:** HTML , CSS , JavaScript 
+🖥️ **Frontend:** HTML, CSS, JavaScript, React
 
-⚙️ **Backend:**  Python, Java  , React
+⚙️ **Backend:** Python, Java
 
 💾 **Databases:** PostgreSQL, MongoDB, Firebase  
 
@@ -18,11 +18,12 @@ I build, I break, I learn, I grow. Passionate about open-source, futuristic tech
 
 ## 📊 My GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rayan-Madi&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![My GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rayan-Madi)
 
 ## 💻 Most Used Languages
 
-![Your Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayan-Madi&layout=compact&hide_title=true)
+![Languages per Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rayan-Madi)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rayan-Madi)
 
 
 ## 🧠 Currently Exploring
