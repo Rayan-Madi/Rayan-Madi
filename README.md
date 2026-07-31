@@ -1,41 +1,35 @@
-# Hey there! 👋 I'm Rayan Madi, the Future of Full Stack Development ! 🚀
+# Rayan Madi
 
-## 🌟 Who Am I?
-A creative **Full Stack Developer in training** who turns ideas into reality with clean, efficient code. I'm always exploring new tech, pushing boundaries, and striving for excellence.
+**Full-stack developer** — 3rd year of a Bachelor's degree, Paris.
 
-## 🔥 My Tech Arsenal
-🖥️ **Frontend:** HTML, CSS, JavaScript, React
+I build web applications end to end: interfaces, APIs, databases, deployment.
+These days most of my time goes to real-time systems and to running language models locally.
 
-⚙️ **Backend:** Python, Java
+**Looking for a 12-month apprenticeship starting September 2026** — 3 weeks in company, 1 week at school, Paris area.
 
-💾 **Databases:** PostgreSQL, MongoDB, Firebase  
+---
 
-🛠️ **Tools & Workflow:** Git, GitHub, Docker, VS Code, CI/CD
+### Stack
 
-## 🚀 My Mission
-I build, I break, I learn, I grow. Passionate about open-source, futuristic tech, and crafting seamless user experiences.
+|  |  |
+|---|---|
+| **Languages** | Python · TypeScript / JavaScript · PHP · Java · SQL |
+| **Back-end** | Node.js / Express · Django · Flask |
+| **Front-end** | React · Three.js · HTML / CSS |
+| **Databases** | MySQL · NoSQL |
+| **Tools** | Git · Docker · Linux · PowerShell |
 
+---
 
-## 📊 My GitHub Stats
+### Activity
 
-![My GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rayan-Madi)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rayan-Madi)
+![Most used languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rayan-Madi)
 
-## 💻 Most Used Languages
+---
 
-![Languages per Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rayan-Madi)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rayan-Madi)
+### Elsewhere
 
+[Portfolio](https://madirayanportfolio.netlify.app) · [LinkedIn](https://www.linkedin.com/in/rayan-madi) · madirayan75015@gmail.com
 
-## 🧠 Currently Exploring
-🤖 AI-powered applications & ML  
-🌐 Web3 & Blockchain integrations  
-☁️ Cloud computing & DevOps  
-
-## 🎯 Let’s Connect & Build Something Epic
-
-🔗 LinkedIn : linkedin.com/in/rayan-madi
-
-📩 Email : madirayan75015@gmail.com 
-
-### 🎭 Fun Fact
-I see **coding as an art**, coffee as my fuel ☕, and AI as the future! 🤖 Let's build something amazing together. 🚀
+Paris — pinned repositories below.
