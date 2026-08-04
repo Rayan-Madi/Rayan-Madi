@@ -21,6 +21,10 @@ These days most of my time goes to real-time systems and to running language mod
 
 ---
 
+![Most used languages](languages.svg)
+
+---
+
 ### Elsewhere
 
 [Portfolio](https://madirayanportfolio.netlify.app) · [LinkedIn](https://www.linkedin.com/in/rayan-madi) · madirayan75015@gmail.com
