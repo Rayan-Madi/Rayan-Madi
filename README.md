@@ -1,11 +1,11 @@
 # Rayan Madi
 
-**Full-stack developer** — 3rd year of a Bachelor's degree, Paris.
+**Full-stack developer**, 3rd year of a Bachelor's degree, Paris.
 
 I build web applications end to end: interfaces, APIs, databases, deployment.
 These days most of my time goes to real-time systems and to running language models locally.
 
-**Looking for a 12-month apprenticeship starting September 2026** — 3 weeks in company, 1 week at school, Paris area.
+**Looking for a 12-month apprenticeship starting September 2026.** Three weeks in company, one week at school, Paris area.
 
 ---
 
@@ -21,15 +21,8 @@ These days most of my time goes to real-time systems and to running language mod
 
 ---
 
-### Activity
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rayan-Madi)
-![Most used languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rayan-Madi)
-
----
-
 ### Elsewhere
 
 [Portfolio](https://madirayanportfolio.netlify.app) · [LinkedIn](https://www.linkedin.com/in/rayan-madi) · madirayan75015@gmail.com
 
-Paris — pinned repositories below.
+Paris. Pinned repositories below.
